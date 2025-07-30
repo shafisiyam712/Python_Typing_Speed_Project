@@ -4,6 +4,14 @@ A simple desktop GUI app built using Python and Tkinter that lets users test the
 
 ---
 
+## 📊 Presentation Slides
+
+You can view the project presentation slides here:
+
+[View Presentation Slides](https://gamma.app/docs/Typing-Speed-Test-xqvyx23or2qb5aq?mode=doc)
+
+---
+
 ## 🚀 Features
 
 - ⏱ 1-minute countdown timer
@@ -29,7 +37,8 @@ A simple desktop GUI app built using Python and Tkinter that lets users test the
 - `typing_results.csv` → (Auto-created) Stores test results
 - `high_score.txt` → (Auto-created) Stores high score
 - `README.md` → Instructions
-
+- `requirements.txt` → Requirement Instructions
+  
 ---
 
 ## 📸 Screenshot
