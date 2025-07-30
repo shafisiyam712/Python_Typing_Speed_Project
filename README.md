@@ -52,9 +52,28 @@ Here is what the app looks like in action:
 
 
 ## 💻 How to Run It (Windows/Mac/Linux)
-
-1. **Download or clone** the repository:
+1. **Install Python 3 (if not installed)**
+2. **Download or clone** the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/typing-speed-test.git
+   git clone https://github.com/shafisiyam712/Python_Typing_Speed_Project.git
    cd typing-speed-test
    python typing_speed_test.py
+
+---
+
+## 📄 My Resume
+
+You can view my resume here:
+
+[View Resume](https://drive.google.com/file/d/13svTxGmZAiCCu_RypwGSkK-aboIGK4dx/view)
+
+---
+
+
+## 🧑‍💻 My Upwork Profile
+
+You can view my freelance profile here:
+
+[Visit My Upwork](https://www.upwork.com/freelancers/~yourprofilelink)
+
+---
