@@ -69,6 +69,13 @@ You can view my resume here:
 
 ---
 
+## 💼 My LinkedIn Profile
+
+Connect with me on LinkedIn:
+
+[Visit My LinkedIn](https://www.linkedin.com/in/shafiuddin-seyam-87930b254/)
+
+---
 
 ## 🧑‍💻 My Upwork Profile
 
